@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="name">Name</string>
+    <string name="petakatal">Petakatal</string>
+    <string name="email">email</string>
+    <string name="kalpeet_gmail_com">kalpeet@gmail.com</string>
+    <string name="mobile">Mobile</string>
+    <string name="_9822773530">9822773530</string>
+    <string name="age">Age</string>
+    <string name="_25">25</string>
+    <string name="_15">15</string>
+    <string name="age1">Age</string>
+    <string name="add_user">Add User</string>
+    <string name="update_user">Update User</string>
+    <string name="age222">25</string>
+    <string name="petaktal_kpase">Petaktal Kpase</string>
+</resources>

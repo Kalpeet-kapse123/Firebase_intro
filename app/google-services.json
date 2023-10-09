@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "973263343153",
+    "firebase_url": "https://examplekotlin-21626-default-rtdb.firebaseio.com",
+    "project_id": "examplekotlin-21626",
+    "storage_bucket": "examplekotlin-21626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973263343153:android:832c6415f820c2fceecf10",
+        "android_client_info": {
+          "package_name": "com.kalpeet.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_d1RjdNJrHNmlBljJK8xqoCafv42Fw0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
